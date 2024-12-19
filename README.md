@@ -27,7 +27,8 @@ The development and testing of this case was carried out for about one year, and
 ![alt text](https://github.com/RomanLikhachev/RIOBuds/blob/main/Source/one_side.jpg?raw=true)
 
 The development of the connector fixing also took a lot of time and all for the experience and convenience of the audiophile: one connector - plenty of choice. The reliability of 2pin is undeniable, and the choice of cables on the market is huge, which served to use it in my project.
-As for MMCX, a case is also being developed for it and will be released later.
+As for MMCX, a case is also being developed for it and will be released later. MMCX diametr connector is 2.75 or 2.8, good short version: 
+https://aliexpress.ru/item/1005003689651540.html?spm=a2g2w.orderdetail.0.0.36624aa6eAwaKa&sku_id=12000026815556326
 
 <h1>Version X - three in one</h1>
 
